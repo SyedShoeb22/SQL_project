@@ -39,7 +39,21 @@ git clone https://github.com/SyedShoeb22/SQL_project.git
 
 ## About Me
 
-In this section, you can provide a brief introduction about yourself, your background, and your SQL expertise. Mention any relevant certifications, courses, or projects that highlight your SQL skills.
+EDUCATION
+_________________________________________________________________________________
+
+B.TECH - MECHANICAL ENGINEER - 8.65 GPA		                                 Maharashtra, India
+GSM Marathwada Institute of Technology - Aurangabad         	               Aug  2018  to sep 2022
+
+CERTIFICATIONS & COURSES
+_________________________________________________________________________________
+
+Machine learning with python (IBM certificate) in (01/2022).
+
+Internship project (Innodatatics Inc) in (05/2022).
+
+Python (Atharva IT Solution) in (12/2021).
+
 
 ## Contact Me
 
