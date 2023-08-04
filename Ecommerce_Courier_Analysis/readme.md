@@ -28,19 +28,6 @@ The project follows the following steps:
 4. Compare the expected charges based on the rate card with the actual charges billed by the courier companies.
 5. Prepare a summary table with counts and amounts for overcharged, undercharged, and correctly charged orders.
 
-## Files and Folders
-
-- `code/`: Contains SQL queries used for data analysis.
-- `data/`: Contains the Excel data files used for the analysis.
-- `results/`: Includes the output summary table and any other relevant results.
-
-## How to Use
-
-1. Clone the repository to your local machine.
-2. Ensure you have a SQL server installed, and the required libraries are available.
-3. Run the SQL queries in the `code/` folder against the provided data in the `data/` folder.
-4. Review the summary table and other results in the `results/` folder.
-
 ## License
 
 The project is available under the [MIT License](LICENSE.md).
